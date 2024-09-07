@@ -4,7 +4,7 @@
     git clone <repository_url>
     cd <repository_folder>
 ### Step 2: Install Dependencies
-     npm init -y
+     npm install
 ### Step3: Run the Project
       npm start
 
