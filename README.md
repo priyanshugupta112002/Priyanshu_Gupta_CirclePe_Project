@@ -1,4 +1,4 @@
-Installation and Setup##
+##Installation and Setup##
 
 Step 1: Clone the Repository
     git clone <repository_url>
